@@ -10,7 +10,7 @@
  <li><a href="#sobre">Sobre</a></li>
  <li><a href="#tecnologias">Tecnologias usadas</a></li> 
  <li><a href="#sessao">sessão da projeto</a></li>
- <li><a href="#autor">Autor</a></li> 
+ <li><a href="#version">Version</a></li>  
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -32,16 +32,17 @@ Desenvolido todo em UNITY.</p>
 
 ![Começo](https://github.com/AlexDeSaran/Projeto_3D/blob/main/img.png)
 
+<h2 id="version">Version</h2>
+Versão Unity: 2021.2.14f1
+
+
 ##### Autor do Projeto: Alécio L. Medeiros
 
 <p> 
   <a href="https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://github.com/AlexDeSaran">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-  
+  </a>  
   
   </a>   
 </p>
