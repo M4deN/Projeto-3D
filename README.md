@@ -8,8 +8,8 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Tecnologias usadas</a></li> 
- <li><a href="#sessao">Sessão da projeto</a></li>
+ <li><a href="#tecnologias">Tecnologias</a></li> 
+ <li><a href="#sessao">Sessão do Projeto</a></li>
  <li><a href="#version">Version</a></li>  
 </ul>
 
@@ -18,7 +18,7 @@
 Desenvolido todo em UNITY.</p>
 
 
-<h2 id="tecnologias">Tecnologias Usadas:</h2>
+<h2 id="tecnologias">Tecnologias:</h2>
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="VSCode" width="40" height="40"/><img                                                                                                                          
@@ -35,7 +35,10 @@ Desenvolido todo em UNITY.</p>
 <h2 id="version">Version</h2>
 Versão Unity: 2021.2.14f1
 
+---
 
-##### Autor do Projeto: Alécio L. Medeiros
+## Licença
+
+Este projeto está licenciado sob a Licença MIT [LICENSE](LICENSE).
 
  
